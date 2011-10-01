@@ -1,0 +1,608 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cont",
+				"contentHeight"
+			],
+			[
+				"display",
+				"display.newLine: display.newLine"
+			],
+			[
+				"for",
+				"for: for i=1,10"
+			],
+			[
+				"function",
+				"function: function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/main.lua",
+			"settings":
+			{
+				"buffer_size": 662,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/iphone.lua",
+			"settings":
+			{
+				"buffer_size": 13765,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/gmap.lua",
+			"settings":
+			{
+				"buffer_size": 1792,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/listAppts.lua",
+			"settings":
+			{
+				"buffer_size": 1297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/coronaui.lua",
+			"settings":
+			{
+				"buffer_size": 158209,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/config.lua",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/roadmap.txt",
+			"settings":
+			{
+				"buffer_size": 631,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/Lua.sublime-build",
+			"settings":
+			{
+				"buffer_size": 114,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/corona.applescript",
+			"settings":
+			{
+				"buffer_size": 934,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/corona-build.sh",
+			"settings":
+			{
+				"buffer_size": 346,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392,
+		"selected_items":
+		[
+		],
+		"width": 392
+	},
+	"console":
+	{
+		"height": 115
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/WanaLiveHere.sublime-project",
+		"/Users/abeauvois/Downloads/CoronaUI/coronaui.lua",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/corona-build.sh",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/Lua.sublime-build.old",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/corona.applescript",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/Main.sublime-menu",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/copy_path.py",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/hello_world.py",
+		"/Users/abeauvois/.bash_profile",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/Lua.sublime-build",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/exec.py",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/comment.py",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/transpose.py",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/Add Line Before.sublime-macro",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/Base File (OSX).sublime-settings",
+		"/Users/abeauvois/.profile",
+		"/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/WanaLiveHere.sublime-workspace",
+		"/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/coronaui.lua",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Settings/corona.applescript",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Corona-SDK/Commands/Run Simulator.tmCommand",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Java/JavaC.sublime-build",
+		"/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/main.lua",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Settings/corona-build.sh",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/Corona.sublime-build",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Objective-C/Objective-C.tmLanguage",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Perl/Miscellaneous.tmPreferences",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Perl/Miscellaneous.tmPreferences.cache",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/C#/Build.tmLanguage",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Haskell/Haskell.sublime-build",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Erlang/Erlang.sublime-build",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Batch File/Batch File.tmLanguage",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/AppleScript/AppleScript.tmLanguage",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Lua/local-x-=-1.sublime-snippet",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Corona-SDK.tmbundle/Snippets/addEventListener.tmSnippet",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/Symbol List.tmPreferences",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Lua/Comments.tmPreferences",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Lua/function-(function).sublime-snippet",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Corona/function.tmSnippet",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/swap_line.py",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/Delete to Hard EOL.sublime-macro",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/Default.sublime-commands",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/echo.pyc",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/Default/sort.py",
+		"/Users/abeauvois/Library/Application Support/Sublime Text 2/Settings/Auto Save Session.sublime_session",
+		"/Users/abeauvois/Downloads/osadchuk-Corona-SDK.tmbundle-b15632b/Commands/Run Simulator.tmCommand",
+		"/Users/abeauvois/Downloads/osadchuk-Corona-SDK.tmbundle-b15632b/Snippets/function.tmSnippet",
+		"/Users/abeauvois/Library/Application Support/TextMate/Bundles/Corona-SDK.tmbundle/info.plist",
+		"/Users/abeauvois/Dropbox/Perso/TestCorona/iMobWidget/coronaui.lua",
+		"/Users/abeauvois/Dropbox/Perso/TestCorona/iMobWidget/iphone.lua",
+		"/Users/abeauvois/Dropbox/Perso/TestCorona/iMobWidget/coronaui_alarmbg.png"
+	],
+	"find":
+	{
+		"height": 33
+	},
+	"find_in_files":
+	{
+		"height": 85,
+		"include_history":
+		[
+			""
+		],
+		"location_history":
+		[
+			"/Users/abeauvois/Dropbox/Perso/TestCorona/iMobWidget"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"selectedItem",
+			"selectedIten",
+			"panel",
+			"p",
+			"panel",
+			"	function XmlParser:ToXmlString(value)\n		value = string.gsub (value, \"&\", \"&amp;\");		-- '&' -> \"&amp;\"\n		value = string.gsub (value, \"<\", \"&lt;\");		-- '<' -> \"&lt;\"\n		value = string.gsub (value, \">\", \"&gt;\");		-- '>' -> \"&gt;\"\n		--value = string.gsub (value, \"'\", \"&apos;\");	-- '\\'' -> \"&apos;\"\n		value = string.gsub (value, \"\\\"\", \"&quot;\");	-- '\"' -> \"&quot;\"\n		-- replace non printable char -> \"&#xD;\"\n		value = string.gsub(value, \"([^%w%&%;%p%\\t% ])\",\n			function (c) \n				return string.format(\"&#x%X;\", string.byte(c)) \n				--return string.format(\"&#x%02X;\", string.byte(c)) \n				--return string.format(\"&#%02d;\", string.byte(c)) \n			end);\n		return value;\n	end",
+			"function newXmlParser()\n",
+			"function",
+			"*.lua"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/main.lua",
+					"settings":
+					{
+						"buffer_size": 662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								70
+							],
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/iphone.lua",
+					"settings":
+					{
+						"buffer_size": 13765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4131,
+								4141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 1423,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/gmap.lua",
+					"settings":
+					{
+						"buffer_size": 1792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								538,
+								538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/listAppts.lua",
+					"settings":
+					{
+						"buffer_size": 1297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/coronaui.lua",
+					"settings":
+					{
+						"buffer_size": 158209,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										128956,
+										129022
+									],
+									[
+										142035,
+										142151
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								56315,
+								56338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 29332,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/config.lua",
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/roadmap.txt",
+					"settings":
+					{
+						"buffer_size": 631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/abeauvois/Library/Application Support/Sublime Text 2/Packages/User/Lua.sublime-build",
+					"settings":
+					{
+						"buffer_size": 114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/corona.applescript",
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/AppleScript/AppleScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/abeauvois/Dropbox/Perso/Corona/WanaLiveHere/corona-build.sh",
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32
+	},
+	"input":
+	{
+		"height": 0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			0.933155080214,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98
+	},
+	"replace":
+	{
+		"height": 0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251,
+	"status_bar_visible": true
+}

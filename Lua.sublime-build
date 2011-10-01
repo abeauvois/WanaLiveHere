@@ -1,0 +1,5 @@
+{
+	"cmd": ["bash", "find $packages/User/corona-build.sh | echo $1"],
+	"file_regex": "^(.*?)\\(([0-9]+)\\)",
+	"selector": "source.lua"
+}

@@ -1,0 +1,36 @@
+
+Map
+.Appts (Selectionner 10 plus proches...de ma position actuelle)
+	- get URL / Source from nearestAdress.road + City
+	- get Appts from ApptsDB (cache?) AND URL
+		- if Birth(BD.Apptid)<max then Send JSON
+		- Else Refresh (URL, Apptid) 
+.Agences (on/off)
+
+3 +proches + payant 1€ pour illimité?
+.Récupérer adresse
+.Centrer map sur moi
+.Trouver la source (mon adresse)
+.Trouver10+Proches(mon adresse)
+.Marker
+
+
+Multilingue (EN/FR)
+
+Villes (London, Paris, NY, LA, Moscou)
+
+Criteres
+.Surf
+.Price
+.Address
+.Options
+
+Sources Appts
+.FR+NY : Lodgis, ...
+.London :
+
+Collections/Tagging
+.Favorite
+.Dream
+
+Retablir config.lu pour format iPad
